@@ -1,0 +1,3 @@
+Name: Lu
+Age: 32
+Favorite Color: Rojo
